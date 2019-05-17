@@ -2,7 +2,8 @@
 language: python
 
 Set the python version to 3.6
-python: 3.6
+python:
+  - "3.6"
 
 # Run the unit test
 script:
