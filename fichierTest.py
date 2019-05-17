@@ -1,6 +1,5 @@
 import codeAtester as ex
 import unittest
-from unittest.mock import patch
 from math import pi
 from hypothesis import given
 import hypothesis.strategies as st
