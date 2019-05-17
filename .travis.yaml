@@ -5,4 +5,4 @@ python:
 #  - pip install -r requirements.txt
 # command to run tests
 script:
-  - python 3 fichierTest.py
+  - python3 fichierTest.py
